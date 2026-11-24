@@ -7,7 +7,7 @@ Measure twice, cut once, ship it fast.
 
 ## What I'm building
 - **Ops Control Tower**: SQL and Python exception queues, median/P90 SLA and time-to-close tracking, row-level reconciliation, and written runbook on 5,000 real NYC Department of Buildings 311 requests: [ops-control-tower](https://github.com/Jimboskipe/ops-control-tower)
-- **Field Daily Report Automation**: AI-assisted daily field reporting, the same idea I built with my foreman on a 15-story Madison tower (in progress)
+- **High-Rise Window Logistics & 4-Gate Foreman Tracker**: 2,000 sq ft 2-room sorting warehouse (`9'` rows, `8` pallets deep) to 15-story floor staging, set crew, caulk/drywall-ready prep, and 1st/2nd/3rd final verify before GC turnover: [highrise-window-tracker](https://github.com/Jimboskipe/highrise-window-tracker) · [Live Mobile Foreman App](https://jimboskipe.github.io/highrise-window-tracker/)
 - **Framing Factory Planner**: left-end "X and Go" plate layout, window-order verified openings (`PD1-82`, `MS1-60`), on-deck partition channels, grouped header/shoulder batches, and downloadable crew PWA: [framing-factory-planner](https://github.com/Jimboskipe/framing-factory-planner) · [Live Crew App](https://jimboskipe.github.io/framing-factory-planner/)
 - **Data Accuracy Audit**: 50-point primary-source audit, 13 verified discrepancies: [Futures-Researcher-PFM](https://github.com/Jimboskipe/Futures-Researcher-PFM)
 
